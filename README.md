@@ -12,4 +12,4 @@ To run this project, fork or clone it, then run:
 
 ## Demo
 
-[![Cities Search Demo GIF](cities.gif)]
+![Cities Search Demo GIF](cities.gif)
